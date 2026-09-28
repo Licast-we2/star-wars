@@ -32,9 +32,8 @@ h1{
     padding-top: 10px;
 }
 #menu{
-    display:flex
+    padding: 20px;
    width: 75%;
-    flex-wrap:wrap;
 }
 #menu ul{
     margin-top: 70px;
